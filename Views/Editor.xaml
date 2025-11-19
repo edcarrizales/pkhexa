@@ -41,7 +41,7 @@
                              BackgroundColor="#202020"
                              CornerRadius="35"
                              Clicked="OnEditPkmClicked" />
-                <Label Text="Editar PKM" TextColor="White" FontSize="14" />
+                <Label x:Name="lblTitlePrincupal" Text="Editar PKM" TextColor="White" FontSize="14" />
             </VerticalStackLayout>
 
             <VerticalStackLayout HorizontalOptions="Center" Spacing="5">

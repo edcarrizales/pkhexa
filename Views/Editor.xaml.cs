@@ -13,6 +13,9 @@ public partial class Editor : ContentPage
     {
         InitializeComponent();
         MostrarSpriteDePrueba();
+        this.Title = LanguageService.Get("winEditorTitle");
+
+        lblTitlePrincupal.Text = GlobalService.KeyToData(LanguageService.Get("titleEditor"));
 
     }
 
