@@ -1,4 +1,4 @@
-<api type="debug" assembly-name="PkHexA" mvid="002a6557d9fd4144bf9729a4ea161894">
+<api type="debug" assembly-name="PkHexA" mvid="2fcbe3413a7446eda3a2130e1a61fd5a">
   <java-to-managed>
     <entry java-name="crc64eb7b767bd83dd265/MainActivity" managed-name="PkHexA.MainActivity, PkHexA" managed-type-token-id="33554444" />
     <entry java-name="crc64eb7b767bd83dd265/MainApplication" managed-name="PkHexA.MainApplication, PkHexA" managed-type-token-id="33554445" />

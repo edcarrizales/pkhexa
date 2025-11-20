@@ -1,4 +1,5 @@
 ﻿using Microsoft.Extensions.DependencyInjection;
+using PkHexA.Services;
 using PkHexA.Views;
 
 namespace PkHexA
@@ -8,6 +9,7 @@ namespace PkHexA
         public App()
         {
             InitializeComponent();
+          
         }
 
         protected override Window CreateWindow(IActivationState? activationState)

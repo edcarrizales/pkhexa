@@ -1,5 +1,7 @@
 {
   "es": {
+    "winEditorTitle": "Editor de PokeSav",
+    "titleEditor": "Editando Sav ({VERSION})",
     "btnNew": "Nuevo",
     "btnOpen": "Abrir",
     "btnSettings": "Configuración",

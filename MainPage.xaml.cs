@@ -68,6 +68,7 @@ namespace PkHexA
                     else {
 
                         GlobalService.ACTUAL_FILE = saveFile;
+                        GlobalService.tokenHelper.AddOrUpdateToken("VERSION", saveFile.Version.ToString());
                         var gen = saveFile.Generation;
                         var game = saveFile.GetType().Name.Replace("SAV", "");
                         res = $"Detectado: Generación {gen} - {game}";

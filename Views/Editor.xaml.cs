@@ -15,7 +15,7 @@ public partial class Editor : ContentPage
         MostrarSpriteDePrueba();
         this.Title = LanguageService.Get("winEditorTitle");
 
-        lblTitlePrincupal.Text = GlobalService.KeyToData(LanguageService.Get("titleEditor"));
+        lblTitlePrincupal.Text = GlobalService.tokenHelper.ReplaceTokens(LanguageService.Get("titleEditor"));
 
     }
 
