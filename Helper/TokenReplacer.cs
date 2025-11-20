@@ -35,7 +35,7 @@ namespace PkHexA.Helper
             return TokenRegex.Replace(text, match =>
             {
                 var key = match.Groups["key"].Value;
-                return _tokens.TryGetValue(key, out var value) ? value : match.Value;
+                return _tokens.TryGetValue(key, out var value) ? value : match.Value; 
             });
         }
     }

@@ -7,16 +7,16 @@
       "RelativeMoniker": "D:0:0:{CE33F55F-4345-451A-646B-97A515BD5FA8}|PkHexA.csproj|solutionrelative:helper\\tokenreplacer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{CE33F55F-4345-451A-646B-97A515BD5FA8}|PkHexA.csproj|c:\\users\\ecarrizales\\edgar\\app\\git\\hex\\pkhexa\\views\\editor.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE33F55F-4345-451A-646B-97A515BD5FA8}|PkHexA.csproj|solutionrelative:views\\editor.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{CE33F55F-4345-451A-646B-97A515BD5FA8}|PkHexA.csproj|c:\\users\\ecarrizales\\edgar\\app\\git\\hex\\pkhexa\\views\\editor.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{CE33F55F-4345-451A-646B-97A515BD5FA8}|PkHexA.csproj|solutionrelative:views\\editor.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CE33F55F-4345-451A-646B-97A515BD5FA8}|PkHexA.csproj|c:\\users\\ecarrizales\\edgar\\app\\git\\hex\\pkhexa\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CE33F55F-4345-451A-646B-97A515BD5FA8}|PkHexA.csproj|solutionrelative:mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CE33F55F-4345-451A-646B-97A515BD5FA8}|PkHexA.csproj|c:\\users\\ecarrizales\\edgar\\app\\git\\hex\\pkhexa\\views\\editor.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CE33F55F-4345-451A-646B-97A515BD5FA8}|PkHexA.csproj|solutionrelative:views\\editor.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CE33F55F-4345-451A-646B-97A515BD5FA8}|PkHexA.csproj|c:\\users\\ecarrizales\\edgar\\app\\git\\hex\\pkhexa\\resources\\languages\\lang.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -54,8 +54,7 @@
               "RelativeToolTip": "Resources\\Languages\\lang.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-11-19T19:55:49.748Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-19T19:55:49.748Z"
             },
             {
               "$type": "Document",
@@ -67,12 +66,11 @@
               "RelativeToolTip": "MainPage.xaml.cs",
               "ViewState": "AgIAADsAAAAAAAAAAAAwwEYAAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-19T19:55:29.794Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-19T19:55:29.794Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "MauiProgram.cs",
               "DocumentMoniker": "C:\\Users\\ecarrizales\\edgar\\app\\GIT\\Hex\\pkhexa\\MauiProgram.cs",
               "RelativeDocumentMoniker": "MauiProgram.cs",
@@ -80,12 +78,11 @@
               "RelativeToolTip": "MauiProgram.cs",
               "ViewState": "AgIAAAcAAAAAAAAAAAA1wAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-19T19:55:28.731Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-19T19:55:28.731Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Editor.xaml.cs",
               "DocumentMoniker": "C:\\Users\\ecarrizales\\edgar\\app\\GIT\\Hex\\pkhexa\\Views\\Editor.xaml.cs",
               "RelativeDocumentMoniker": "Views\\Editor.xaml.cs",
@@ -106,12 +103,11 @@
               "RelativeToolTip": "App.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-19T23:22:48.142Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-19T23:22:48.142Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Editor.xaml",
               "DocumentMoniker": "C:\\Users\\ecarrizales\\edgar\\app\\GIT\\Hex\\pkhexa\\Views\\Editor.xaml",
               "RelativeDocumentMoniker": "Views\\Editor.xaml",
@@ -119,8 +115,7 @@
               "RelativeToolTip": "Views\\Editor.xaml",
               "ViewState": "AgIAACEAAAAAAAAAAAD4vysAAABiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-11-19T19:51:29.872Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-19T19:51:29.872Z"
             },
             {
               "$type": "Document",
@@ -130,7 +125,7 @@
               "RelativeDocumentMoniker": "Helper\\TokenReplacer.cs",
               "ToolTip": "C:\\Users\\ecarrizales\\edgar\\app\\GIT\\Hex\\pkhexa\\Helper\\TokenReplacer.cs",
               "RelativeToolTip": "Helper\\TokenReplacer.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAtwCUAAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAABkAAAAAAAAAAAAtwCUAAABWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-19T23:05:54.77Z",
               "EditorCaption": ""
@@ -145,8 +140,7 @@
               "RelativeToolTip": "Services\\GlobalService.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-19T22:48:39.774Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-19T22:48:39.774Z"
             }
           ]
         }

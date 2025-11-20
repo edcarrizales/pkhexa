@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\ecarrizales\\edgar\\app\\GIT\\Hex\\pkhexa\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{CE33F55F-4345-451A-646B-97A515BD5FA8}|PkHexA.csproj|c:\\users\\ecarrizales\\edgar\\app\\git\\hex\\pkhexa\\helper\\tokenreplacer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE33F55F-4345-451A-646B-97A515BD5FA8}|PkHexA.csproj|solutionrelative:helper\\tokenreplacer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{CE33F55F-4345-451A-646B-97A515BD5FA8}|PkHexA.csproj|c:\\users\\ecarrizales\\edgar\\app\\git\\hex\\pkhexa\\views\\editor.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{CE33F55F-4345-451A-646B-97A515BD5FA8}|PkHexA.csproj|solutionrelative:views\\editor.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
@@ -17,10 +21,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{CE33F55F-4345-451A-646B-97A515BD5FA8}|PkHexA.csproj|c:\\users\\ecarrizales\\edgar\\app\\git\\hex\\pkhexa\\resources\\languages\\lang.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{CE33F55F-4345-451A-646B-97A515BD5FA8}|PkHexA.csproj|solutionrelative:resources\\languages\\lang.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CE33F55F-4345-451A-646B-97A515BD5FA8}|PkHexA.csproj|c:\\users\\ecarrizales\\edgar\\app\\git\\hex\\pkhexa\\helper\\tokenreplacer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CE33F55F-4345-451A-646B-97A515BD5FA8}|PkHexA.csproj|solutionrelative:helper\\tokenreplacer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CE33F55F-4345-451A-646B-97A515BD5FA8}|PkHexA.csproj|c:\\users\\ecarrizales\\edgar\\app\\git\\hex\\pkhexa\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -42,37 +42,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "TokenReplacer.cs",
-              "DocumentMoniker": "C:\\Users\\ecarrizales\\edgar\\app\\GIT\\Hex\\pkhexa\\Helper\\TokenReplacer.cs",
-              "RelativeDocumentMoniker": "Helper\\TokenReplacer.cs",
-              "ToolTip": "C:\\Users\\ecarrizales\\edgar\\app\\GIT\\Hex\\pkhexa\\Helper\\TokenReplacer.cs",
-              "RelativeToolTip": "Helper\\TokenReplacer.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAtwCIAAAALAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-19T23:05:54.77Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "GlobalService.cs",
-              "DocumentMoniker": "C:\\Users\\ecarrizales\\edgar\\app\\GIT\\Hex\\pkhexa\\Services\\GlobalService.cs",
-              "RelativeDocumentMoniker": "Services\\GlobalService.cs",
-              "ToolTip": "C:\\Users\\ecarrizales\\edgar\\app\\GIT\\Hex\\pkhexa\\Services\\GlobalService.cs",
-              "RelativeToolTip": "Services\\GlobalService.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-19T22:48:39.774Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "lang.json",
               "DocumentMoniker": "C:\\Users\\ecarrizales\\edgar\\app\\GIT\\Hex\\pkhexa\\Resources\\Languages\\lang.json",
               "RelativeDocumentMoniker": "Resources\\Languages\\lang.json",
@@ -98,7 +72,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "MauiProgram.cs",
               "DocumentMoniker": "C:\\Users\\ecarrizales\\edgar\\app\\GIT\\Hex\\pkhexa\\MauiProgram.cs",
               "RelativeDocumentMoniker": "MauiProgram.cs",
@@ -111,7 +85,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Editor.xaml.cs",
               "DocumentMoniker": "C:\\Users\\ecarrizales\\edgar\\app\\GIT\\Hex\\pkhexa\\Views\\Editor.xaml.cs",
               "RelativeDocumentMoniker": "Views\\Editor.xaml.cs",
@@ -137,15 +111,41 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Editor.xaml",
               "DocumentMoniker": "C:\\Users\\ecarrizales\\edgar\\app\\GIT\\Hex\\pkhexa\\Views\\Editor.xaml",
               "RelativeDocumentMoniker": "Views\\Editor.xaml",
-              "ToolTip": "C:\\Users\\ecarrizales\\edgar\\app\\GIT\\Hex\\pkhexa\\Views\\Editor.xaml*",
-              "RelativeToolTip": "Views\\Editor.xaml*",
+              "ToolTip": "C:\\Users\\ecarrizales\\edgar\\app\\GIT\\Hex\\pkhexa\\Views\\Editor.xaml",
+              "RelativeToolTip": "Views\\Editor.xaml",
               "ViewState": "AgIAACEAAAAAAAAAAAD4vysAAABiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-11-19T19:51:29.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TokenReplacer.cs",
+              "DocumentMoniker": "C:\\Users\\ecarrizales\\edgar\\app\\GIT\\Hex\\pkhexa\\Helper\\TokenReplacer.cs",
+              "RelativeDocumentMoniker": "Helper\\TokenReplacer.cs",
+              "ToolTip": "C:\\Users\\ecarrizales\\edgar\\app\\GIT\\Hex\\pkhexa\\Helper\\TokenReplacer.cs",
+              "RelativeToolTip": "Helper\\TokenReplacer.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAtwCUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T23:05:54.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GlobalService.cs",
+              "DocumentMoniker": "C:\\Users\\ecarrizales\\edgar\\app\\GIT\\Hex\\pkhexa\\Services\\GlobalService.cs",
+              "RelativeDocumentMoniker": "Services\\GlobalService.cs",
+              "ToolTip": "C:\\Users\\ecarrizales\\edgar\\app\\GIT\\Hex\\pkhexa\\Services\\GlobalService.cs",
+              "RelativeToolTip": "Services\\GlobalService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T22:48:39.774Z",
               "EditorCaption": ""
             }
           ]
